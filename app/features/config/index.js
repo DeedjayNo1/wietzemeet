@@ -24,12 +24,12 @@ export default {
     /**
      * The default server URL of Jitsi Meet Deployment that will be used.
      */
-    defaultServerURL: 'https://meet.jit.si',
+    defaultServerURL: 'https://wietzemeet.ddnss.de',
 
     /**
      * The default server Timeout in seconds.
      */
-    defaultServerTimeout: 30,
+    defaultServerTimeout: 10,
 
     /**
      * URL to send feedback.
